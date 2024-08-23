@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Simple");
+﻿Console.WriteLine("Simple, revert prac");
